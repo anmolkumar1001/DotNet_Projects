@@ -1,2 +1,2 @@
 # DotNet_Projects
-Some Basics Project in C# or .NET Framework.
+Some Basics Projects in C# or .NET Framework.
